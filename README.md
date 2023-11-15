@@ -6,4 +6,5 @@
 
 -   Python
     -   Selenium
--   HTML & CSS
+    -   pandas
+    -   csv
